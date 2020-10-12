@@ -16,4 +16,4 @@ Check if it is running:
 docker ps
 ```
 
-Visit [localhome](127.0.0.1:5000) for Hello world or [see some items](127.0.0.1:5000/items/3)
+Visit [localhome](http://127.0.0.1:5000) for Hello world or [see some items](http://127.0.0.1:5000/items/3)
